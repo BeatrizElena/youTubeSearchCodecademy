@@ -1,0 +1,354 @@
+"Hooray! YouTube Responded with Snippets!!"{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/l5FvL7DNTaifMz8XojC9T4B5JGo\"",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/MMzRgk0I4RHyLq_4niRESMHcm7Q\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nfs8NYg7yQM"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-24T17:00:05.000Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "Charlie Puth - Attention [Official Video]",
+        "description": "Download and Stream \"Attention\": https://Atlantic.lnk.to/AttentionID Video Directed by Emil Nava Written By: Charlie Puth and Jacob Kasher Produced By: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ew-ghRDV6cFgYtvsV8ugvDB0ZUE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yZIummTz9mM"
+      },
+      "snippet": {
+        "publishedAt": "2008-06-02T23:28:45.000Z",
+        "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+        "title": "Leave Out All The Rest (Official Video) - Linkin Park",
+        "description": "Linkin Park \"Leave Out All The Rest\" off of the album MINUTES TO MIDNIGHT. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZIummTz9mM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZIummTz9mM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZIummTz9mM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Linkin Park",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/a0kysCVCBOsftIKterdZ_r6N7Ok\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v2H4l9RpkwM"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-23T20:17:54.000Z",
+        "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+        "title": "Breaking The Habit (Official Video) - Linkin Park",
+        "description": "Linkin Park \"Breaking The Habit\" off of the album METEORA. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v2H4l9RpkwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v2H4l9RpkwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2H4l9RpkwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Linkin Park",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/HOZpkTZCsq-gixbvF4mQGcdiepE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kXYiU_JCYtU"
+      },
+      "snippet": {
+        "publishedAt": "2007-03-05T08:12:00.000Z",
+        "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+        "title": "Numb (Official Video) - Linkin Park",
+        "description": "Linkin Park \"Numb\" off of the album METEORA. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com iTunes: http://go.lprk.co/ml/3pb/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Linkin Park",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/sm3Jn4MgbK2DQEXFsAErxEB130A\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-HjpL-Ns6_A"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-21T15:00:00.000Z",
+        "channelId": "UCR5BwOS3Gb4uQtxRYRUQ7ng",
+        "title": "Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals",
+        "description": "Louis Tomlinson's new single 'Back To You' featuring Bebe Rexha & Digital Farm Animals is out NOW. Get it here: iTunes: http://smarturl.it/LTBackToYouiT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HjpL-Ns6_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HjpL-Ns6_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HjpL-Ns6_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LouisTomlinsonVEVO",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ],
+  "result": {
+    "kind": "youtube#searchListResponse",
+    "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/l5FvL7DNTaifMz8XojC9T4B5JGo\"",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/MMzRgk0I4RHyLq_4niRESMHcm7Q\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nfs8NYg7yQM"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-24T17:00:05.000Z",
+          "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+          "title": "Charlie Puth - Attention [Official Video]",
+          "description": "Download and Stream \"Attention\": https://Atlantic.lnk.to/AttentionID Video Directed by Emil Nava Written By: Charlie Puth and Jacob Kasher Produced By: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nfs8NYg7yQM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Charlie Puth",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ew-ghRDV6cFgYtvsV8ugvDB0ZUE\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yZIummTz9mM"
+        },
+        "snippet": {
+          "publishedAt": "2008-06-02T23:28:45.000Z",
+          "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+          "title": "Leave Out All The Rest (Official Video) - Linkin Park",
+          "description": "Linkin Park \"Leave Out All The Rest\" off of the album MINUTES TO MIDNIGHT. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yZIummTz9mM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yZIummTz9mM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yZIummTz9mM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Linkin Park",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/a0kysCVCBOsftIKterdZ_r6N7Ok\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "v2H4l9RpkwM"
+        },
+        "snippet": {
+          "publishedAt": "2009-10-23T20:17:54.000Z",
+          "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+          "title": "Breaking The Habit (Official Video) - Linkin Park",
+          "description": "Linkin Park \"Breaking The Habit\" off of the album METEORA. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com iTunes: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v2H4l9RpkwM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v2H4l9RpkwM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v2H4l9RpkwM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Linkin Park",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/HOZpkTZCsq-gixbvF4mQGcdiepE\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kXYiU_JCYtU"
+        },
+        "snippet": {
+          "publishedAt": "2007-03-05T08:12:00.000Z",
+          "channelId": "UCZU9T1ceaOgwfLRq7OKFU4Q",
+          "title": "Numb (Official Video) - Linkin Park",
+          "description": "Linkin Park \"Numb\" off of the album METEORA. Directed by Joe Hahn. http://www.linkinpark.com | http://LPUnderground.com iTunes: http://go.lprk.co/ml/3pb/ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kXYiU_JCYtU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Linkin Park",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/sm3Jn4MgbK2DQEXFsAErxEB130A\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-HjpL-Ns6_A"
+        },
+        "snippet": {
+          "publishedAt": "2017-07-21T15:00:00.000Z",
+          "channelId": "UCR5BwOS3Gb4uQtxRYRUQ7ng",
+          "title": "Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals",
+          "description": "Louis Tomlinson's new single 'Back To You' featuring Bebe Rexha & Digital Farm Animals is out NOW. Get it here: iTunes: http://smarturl.it/LTBackToYouiT ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-HjpL-Ns6_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-HjpL-Ns6_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-HjpL-Ns6_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LouisTomlinsonVEVO",
+          "liveBroadcastContent": "none"
+        }
+      }
+    ]
+  }
+}

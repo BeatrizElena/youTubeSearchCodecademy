@@ -1,0 +1,354 @@
+"Hooray! YouTube Responded with Snippets and Returned my Query!!"{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/KahoJg8t6vNQsbtE__DrQre_Lko\"",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 352331,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/83cdca0SZIs_-64LLCjdLJr-GCI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mq-gpb-vZOA"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-08T18:29:31.000Z",
+        "channelId": "UCfdMCaoF4lTE0giCAVQHQkA",
+        "title": "Court Interpreting Program",
+        "description": "This course introduces the general criminal terminology, in Spanish and English, used in criminal court. Typical proceedings, such as arraignments, pre-trial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mq-gpb-vZOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mq-gpb-vZOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mq-gpb-vZOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SCSIMedia",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/VLpsNzwZhj7GFV9HFJdv6jUypP8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VrMM6M_k8v8"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-08T06:09:11.000Z",
+        "channelId": "UCAGcBY4aA0cb5MOuBTIMJ4Q",
+        "title": "Spanish Legal Interpretation",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VrMM6M_k8v8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VrMM6M_k8v8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VrMM6M_k8v8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ClarissaTapia13",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ml89OGdJG2r8phv5wF9VvMO9524\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "64u23Uvq6FQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-12T17:40:23.000Z",
+        "channelId": "UCIcgGfaeUGYJSo7bLeUr1hw",
+        "title": "Example of Inaccurate Legal Interpretation",
+        "description": "This video depicts an inaccurate courtroom interpretation. Court interpreters must avoid summary interpretation and provide a complete rendition of everything ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/64u23Uvq6FQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/64u23Uvq6FQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/64u23Uvq6FQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "United States Courts",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3XW0OZ4osCUKFWXaynKOTk_tHn0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MqoU7BWqRq0"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-02T19:14:55.000Z",
+        "channelId": "UCzBmT3lb1LDl-Nmc4HTad7Q",
+        "title": "Legal Interpreting Part 1",
+        "description": "Grace Donohue and Jordyn Beal for INTP 3010.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MqoU7BWqRq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MqoU7BWqRq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MqoU7BWqRq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jordyn Beal",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/puq8zaD0ApYAsTt2phS3rTFqDl8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DgjKZHMsRUU"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-02T22:19:44.000Z",
+        "channelId": "UCSCOkvNFSfD4Lj1DptwnpsQ",
+        "title": "Legal Interpreting Basics - by Carla Mathers",
+        "description": "Legal settings constitute high risk interpreting. Many interpreters avoid legal interpreting because of the fear that they might do more harm than good if they ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DgjKZHMsRUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DgjKZHMsRUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DgjKZHMsRUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Carrie Woodruff",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ],
+  "result": {
+    "kind": "youtube#searchListResponse",
+    "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/KahoJg8t6vNQsbtE__DrQre_Lko\"",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 352331,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/83cdca0SZIs_-64LLCjdLJr-GCI\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Mq-gpb-vZOA"
+        },
+        "snippet": {
+          "publishedAt": "2013-08-08T18:29:31.000Z",
+          "channelId": "UCfdMCaoF4lTE0giCAVQHQkA",
+          "title": "Court Interpreting Program",
+          "description": "This course introduces the general criminal terminology, in Spanish and English, used in criminal court. Typical proceedings, such as arraignments, pre-trial ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mq-gpb-vZOA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mq-gpb-vZOA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mq-gpb-vZOA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SCSIMedia",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/VLpsNzwZhj7GFV9HFJdv6jUypP8\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VrMM6M_k8v8"
+        },
+        "snippet": {
+          "publishedAt": "2013-04-08T06:09:11.000Z",
+          "channelId": "UCAGcBY4aA0cb5MOuBTIMJ4Q",
+          "title": "Spanish Legal Interpretation",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VrMM6M_k8v8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VrMM6M_k8v8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VrMM6M_k8v8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ClarissaTapia13",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ml89OGdJG2r8phv5wF9VvMO9524\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "64u23Uvq6FQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-02-12T17:40:23.000Z",
+          "channelId": "UCIcgGfaeUGYJSo7bLeUr1hw",
+          "title": "Example of Inaccurate Legal Interpretation",
+          "description": "This video depicts an inaccurate courtroom interpretation. Court interpreters must avoid summary interpretation and provide a complete rendition of everything ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/64u23Uvq6FQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/64u23Uvq6FQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/64u23Uvq6FQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "United States Courts",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3XW0OZ4osCUKFWXaynKOTk_tHn0\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MqoU7BWqRq0"
+        },
+        "snippet": {
+          "publishedAt": "2013-10-02T19:14:55.000Z",
+          "channelId": "UCzBmT3lb1LDl-Nmc4HTad7Q",
+          "title": "Legal Interpreting Part 1",
+          "description": "Grace Donohue and Jordyn Beal for INTP 3010.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MqoU7BWqRq0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MqoU7BWqRq0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MqoU7BWqRq0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jordyn Beal",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/puq8zaD0ApYAsTt2phS3rTFqDl8\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DgjKZHMsRUU"
+        },
+        "snippet": {
+          "publishedAt": "2014-01-02T22:19:44.000Z",
+          "channelId": "UCSCOkvNFSfD4Lj1DptwnpsQ",
+          "title": "Legal Interpreting Basics - by Carla Mathers",
+          "description": "Legal settings constitute high risk interpreting. Many interpreters avoid legal interpreting because of the fear that they might do more harm than good if they ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DgjKZHMsRUU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DgjKZHMsRUU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DgjKZHMsRUU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Carrie Woodruff",
+          "liveBroadcastContent": "none"
+        }
+      }
+    ]
+  }
+}
